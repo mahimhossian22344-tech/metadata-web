@@ -1,0 +1,6 @@
+{
+  "name": "Microstock Metadata Studio",
+  "description": "Stock media metadata generator and extractor with custom word counts, platform guidelines, and batch export for Adobe Stock, Shutterstock, Freepik, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
